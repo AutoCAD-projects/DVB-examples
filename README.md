@@ -3,6 +3,8 @@
 # AutoCAD DVB Examples
 AutoCAD example .dvb files
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © 2017 Anthony Duguid")
+
 ## Dependencies
 |Software                        |Dependency                 |
 |:-------------------------------|:--------------------------|
